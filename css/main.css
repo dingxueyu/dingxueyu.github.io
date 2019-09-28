@@ -1198,13 +1198,6 @@ pre .javascript .function {
   margin: 0 auto;
   max-width: 120px;
   padding: 2px;
-  border-radius: 50%;
-}
-.site-author-image {
-  transition: transform 1s ease-out;
-}
-.site-author-image:hover {
-  transform: rotateZ(360deg);
 }
 .site-author-name {
   color: #222;
@@ -1232,7 +1225,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #cd28d6;
+  background: #ffa87d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
