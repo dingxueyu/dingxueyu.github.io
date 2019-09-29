@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-29T12:32:35.225Z</updated>
+  <updated>2019-09-29T12:36:34.654Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/09/29/%E5%8F%A4%E8%AF%97%E4%B8%A4%E9%A6%96/"/>
     <id>http://yoursite.com/2019/09/29/古诗两首/</id>
     <published>2019-09-29T12:28:42.000Z</published>
-    <updated>2019-09-29T12:32:35.225Z</updated>
+    <updated>2019-09-29T12:36:34.654Z</updated>
     
     <content type="html"><![CDATA[<h3 id="临江仙"><a href="#临江仙" class="headerlink" title="临江仙"></a>临江仙</h3><h5 id="杨慎"><a href="#杨慎" class="headerlink" title="杨慎"></a>杨慎</h5><p>滚滚长江东逝水，浪花淘尽英雄。<br> 是非成败转头空。<br> 青山依旧在，几度夕阳红。<br> 白发渔樵江渚上，惯看秋月春风。<br> 一壶浊酒喜相逢。<br> 古今多少事，都付笑谈中。</p><h3 id="己亥岁二首·僖宗广明元年"><a href="#己亥岁二首·僖宗广明元年" class="headerlink" title="己亥岁二首·僖宗广明元年"></a>己亥岁二首·僖宗广明元年</h3><h5 id="曹松"><a href="#曹松" class="headerlink" title="曹松"></a>曹松</h5><p>泽国江山入战图，生民何计乐樵苏。</p><p>凭君莫话封侯事，一将功成万骨枯。</p><p>传闻一战百神愁，两岸强兵过未休。</p><p>谁道沧江总无事，近来长共血争流。</p>]]></content>
     
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="杂记" scheme="http://yoursite.com/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
       <category term="杂记" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AE%B0/"/>
