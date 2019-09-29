@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>陈老师当院士了没？</title>
+  <title>药不能停</title>
   
-  <subtitle>happy everyday</subtitle>
+  <subtitle>陈老师当院士了没？</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>作者太帅无法显示</name>
+    <name>丁学宇</name>
     
   </author>
   
